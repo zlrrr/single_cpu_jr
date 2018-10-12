@@ -1,0 +1,291 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/program/modelsim_workspace/single_cpu
+T_opt
+!s110 1538054875
+Ve8V]1hz;gJ6:?Lk`;i2S43
+Z1 04 9 4 work testbench fast 0
+=1-780cb857822b-5bacdada-325-e98
+Z2 o-quiet -auto_acc_if_foreign -work work +acc
+n@_opt
+Z3 OL;O;10.4;61
+R0
+T_opt1
+!s110 1538054916
+VBQgoP6GbZ0jPS[0aWhaB<2
+R1
+=1-780cb857822b-5bacdb03-2ad-2988
+o-quiet -auto_acc_if_foreign -work work
+n@_opt1
+R3
+R0
+T_opt2
+!s110 1538055056
+VfU63M_d9RjN?zKCeEb?:01
+04 7 4 work RegFile fast 0
+=1-780cb857822b-5bacdb8f-af-18fc
+R2
+n@_opt2
+R3
+vALu
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 DaS<NfNz;z:I;<4BYC<I01
+I::C?V7;2ddjUEdlg4RGAB2
+Z5 dE:/program/modelsim_workspace/cpu_test
+w1503369068
+8E:/program/modelsim_workspace/cpu_test/alu.v
+FE:/program/modelsim_workspace/cpu_test/alu.v
+L0 4
+Z6 OL;L;10.4;61
+!s108 1538054961.973000
+!s107 instruction_head.v|E:/program/modelsim_workspace/cpu_test/alu.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/program/modelsim_workspace/cpu_test/alu.v|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+n@a@lu
+vctrl
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 d@4?IQjAa[8ZWDNCbP_c60
+I9JN]o@5UQ5TWIzL]O;d>?3
+R5
+w1538052244
+8E:/program/modelsim_workspace/cpu_test/ctrl.v
+FE:/program/modelsim_workspace/cpu_test/ctrl.v
+L0 1
+R6
+!s108 1538054962.378000
+!s107 E:/program/modelsim_workspace/cpu_test/ctrl.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/program/modelsim_workspace/cpu_test/ctrl.v|
+!i113 0
+R7
+vdm_4k
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 5`:HVd39S:i8^9fXdlLGE2
+IAU5`FW]^^nc:J6Qk4C>fh2
+R5
+w1389420560
+8E:/program/modelsim_workspace/cpu_test/dm.v
+FE:/program/modelsim_workspace/cpu_test/dm.v
+L0 6
+R6
+!s108 1538054962.741000
+!s107 E:/program/modelsim_workspace/cpu_test/dm.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/program/modelsim_workspace/cpu_test/dm.v|
+!i113 0
+R7
+vim_4k
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 fSSBHR>DaZ_k9^cRQZbNf0
+I>a:58hSc]1aKf[Rh<4aMo3
+R5
+w1538049864
+8E:/program/modelsim_workspace/cpu_test/im.v
+FE:/program/modelsim_workspace/cpu_test/im.v
+L0 1
+R6
+!s108 1538054963.133000
+!s107 E:/program/modelsim_workspace/cpu_test/im.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/program/modelsim_workspace/cpu_test/im.v|
+!i113 0
+R7
+vmips
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 m8H:RVDMYomOTK4c?J4A@1
+IFc>?:O7QhS:z985YkB9<72
+R5
+w1538052336
+8E:/program/modelsim_workspace/cpu_test/mips.v
+FE:/program/modelsim_workspace/cpu_test/mips.v
+L0 1
+R6
+!s108 1538054963.935000
+!s107 E:/program/modelsim_workspace/cpu_test/mips.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/program/modelsim_workspace/cpu_test/mips.v|
+!i113 0
+R7
+vMux_2
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 GYd:B`f5InldM<NhN:n>U3
+Io10P4Fk0A2?48zKfD=K>N3
+R5
+Z8 w1503392986
+Z9 8E:/program/modelsim_workspace/cpu_test/Mux.v
+Z10 FE:/program/modelsim_workspace/cpu_test/Mux.v
+L0 33
+R6
+Z11 !s108 1538054964.354000
+Z12 !s107 E:/program/modelsim_workspace/cpu_test/Mux.v|
+Z13 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/program/modelsim_workspace/cpu_test/Mux.v|
+!i113 0
+R7
+n@mux_2
+vMux_4_32
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 hbCQfTZM260EdQE8FI3Dz0
+IAIEPk8R54CD:UV[1ebIb@0
+R5
+R8
+R9
+R10
+L0 1
+R6
+R11
+R12
+R13
+!i113 0
+R7
+n@mux_4_32
+vMux_4_5
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 75oQdWkA67bYkA_]mlb6B0
+IoW>DC?`NVY_cf?oM4SczW1
+R5
+R8
+R9
+R10
+L0 17
+R6
+R11
+R12
+R13
+!i113 0
+R7
+n@mux_4_5
+vnPC
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 m7[a;_k=5mS`n?=Kngmii2
+IaFJdNNM4XM<`baURQ9IQ>0
+R5
+w1538052736
+8E:/program/modelsim_workspace/cpu_test/nPC.v
+FE:/program/modelsim_workspace/cpu_test/nPC.v
+L0 3
+R6
+!s108 1538054964.782000
+!s107 instruction_head.v|E:/program/modelsim_workspace/cpu_test/nPC.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/program/modelsim_workspace/cpu_test/nPC.v|
+!i113 0
+R7
+nn@p@c
+vPC
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 LXzBk]C6V;b1j2KaE_f]Y2
+IHdDLHIC;c6@lENlTBFJmU0
+R5
+w1389357480
+8E:/program/modelsim_workspace/cpu_test/PC.v
+FE:/program/modelsim_workspace/cpu_test/PC.v
+L0 1
+R6
+!s108 1538054965.230000
+!s107 E:/program/modelsim_workspace/cpu_test/PC.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/program/modelsim_workspace/cpu_test/PC.v|
+!i113 0
+R7
+n@p@c
+vRegFile
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 >KPNMJC2h`>e8g0N;5Z^d1
+I4nigH[aRazPERcbmO=aS62
+R5
+w1538049094
+8E:/program/modelsim_workspace/cpu_test/regfile.v
+FE:/program/modelsim_workspace/cpu_test/regfile.v
+L0 6
+R6
+!s108 1538054966.112000
+!s107 E:/program/modelsim_workspace/cpu_test/regfile.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/program/modelsim_workspace/cpu_test/regfile.v|
+!i113 0
+R7
+n@reg@file
+vsign_Ext
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 b@G3nc=_;2AD?ZNNZTmRc2
+I9?kkODAY_PNe`?LlTa`<c0
+R5
+w1389428794
+8E:/program/modelsim_workspace/cpu_test/sign_Ext.v
+FE:/program/modelsim_workspace/cpu_test/sign_Ext.v
+L0 1
+R6
+!s108 1538054966.576000
+!s107 E:/program/modelsim_workspace/cpu_test/sign_Ext.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/program/modelsim_workspace/cpu_test/sign_Ext.v|
+!i113 0
+R7
+nsign_@ext
+vtestbench
+R4
+r1
+!s85 0
+31
+!i10b 1
+!s100 :a;RgD_44`Ze[dK]7N]FW0
+IJjigmDRRchGRgCT2macNK2
+R5
+w1538051652
+8E:/program/modelsim_workspace/cpu_test/testbench.v
+FE:/program/modelsim_workspace/cpu_test/testbench.v
+L0 2
+R6
+!s108 1538054966.973000
+!s107 E:/program/modelsim_workspace/cpu_test/testbench.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/program/modelsim_workspace/cpu_test/testbench.v|
+!i113 0
+R7

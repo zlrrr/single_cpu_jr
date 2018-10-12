@@ -1,0 +1,20 @@
+
+module im_4k (
+    input [11:2]  addr,       // address bus
+	input InsMemRW,IRWre,clk,
+    output [31:0] dout );      // 32-bit memory output 
+    
+    reg   [31:0]  im[1023:0] ;
+    
+	always @( addr or InsMemRW) begin
+        if (InsMemRW) begin
+            dout = im[addr];
+        end
+	 end
+	 
+	 always @(posedge clk) begin
+	     if (IRWre)  im[addr] <= dout;
+	 end
+    
+endmodule
+

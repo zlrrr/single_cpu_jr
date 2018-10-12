@@ -1,0 +1,96 @@
+E:/program/modelsim_workspace/cpu_test/alu.v {1 {vlog -work work -vopt -stats=none E:/program/modelsim_workspace/cpu_test/alu.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module ALu
+
+Top level modules:
+	ALu
+
+} {} {}} E:/program/modelsim_workspace/cpu_test/Mux.v {1 {vlog -work work -vopt -stats=none E:/program/modelsim_workspace/cpu_test/Mux.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module Mux_4_32
+-- Compiling module Mux_4_5
+-- Compiling module Mux_2
+
+Top level modules:
+	Mux_4_32
+	Mux_4_5
+	Mux_2
+
+} {} {}} E:/program/modelsim_workspace/cpu_test/PC.v {1 {vlog -work work -vopt -stats=none E:/program/modelsim_workspace/cpu_test/PC.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} E:/program/modelsim_workspace/cpu_test/regfile.v {1 {vlog -work work -vopt -stats=none E:/program/modelsim_workspace/cpu_test/regfile.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module RegFile
+
+Top level modules:
+	RegFile
+
+} {} {}} E:/program/modelsim_workspace/cpu_test/testbench.v {1 {vlog -work work -vopt -stats=none E:/program/modelsim_workspace/cpu_test/testbench.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module testbench
+
+Top level modules:
+	testbench
+
+} {} {}} E:/program/modelsim_workspace/cpu_test/sign_Ext.v {1 {vlog -work work -vopt -stats=none E:/program/modelsim_workspace/cpu_test/sign_Ext.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module sign_Ext
+
+Top level modules:
+	sign_Ext
+
+} {} {}} E:/program/modelsim_workspace/cpu_test/instruction_head.v {1 {vlog -work work -vopt -stats=none E:/program/modelsim_workspace/cpu_test/instruction_head.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+
+} {} {}} E:/program/modelsim_workspace/cpu_test/ctrl.v {1 {vlog -work work -vopt -stats=none E:/program/modelsim_workspace/cpu_test/ctrl.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module ctrl
+
+Top level modules:
+	ctrl
+
+} {} {}} E:/program/modelsim_workspace/cpu_test/code.txt {0 {vcom -work work -2002 -explicit -vopt -stats=none {E:\program\modelsim_workspace\cpu_test\code.txt}
+Model Technology ModelSim SE-64 vcom 10.4 Compiler 2014.12 Dec  3 2014
+-- Loading package STANDARD
+** Error: E:\program\modelsim_workspace\cpu_test\code.txt(1): near "24103010": syntax error
+
+} {4.0 5.0} {}} E:/program/modelsim_workspace/cpu_test/im.v {1 {vlog -work work -vopt -stats=none E:/program/modelsim_workspace/cpu_test/im.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module im_4k
+
+Top level modules:
+	im_4k
+
+} {} {}} E:/program/modelsim_workspace/cpu_test/nPC.v {2 {vlog -work work -vopt -stats=none E:/program/modelsim_workspace/cpu_test/nPC.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module nPC
+** Warning: ** while parsing macro expansion: 'DEBUG_DEV_DATA' starting at E:/program/modelsim_workspace/cpu_test/nPC.v(20)
+** at E:/program/modelsim_workspace/cpu_test/nPC.v(20): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+
+
+Top level modules:
+	nPC
+
+} {} {}} E:/program/modelsim_workspace/cpu_test/mips.v {1 {vlog -work work -vopt -stats=none E:/program/modelsim_workspace/cpu_test/mips.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module mips
+
+Top level modules:
+	mips
+
+} {} {}} E:/program/modelsim_workspace/cpu_test/dm.v {1 {vlog -work work -vopt -stats=none E:/program/modelsim_workspace/cpu_test/dm.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+-- Compiling module dm_4k
+
+Top level modules:
+	dm_4k
+
+} {} {}} E:/program/modelsim_workspace/cpu_test/processor_head.v {1 {vlog -work work -vopt -stats=none E:/program/modelsim_workspace/cpu_test/processor_head.v
+Model Technology ModelSim SE-64 vlog 10.4 Compiler 2014.12 Dec  3 2014
+
+} {} {}}
